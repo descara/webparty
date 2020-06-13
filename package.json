@@ -1,0 +1,19 @@
+{
+  "name": "webparty",
+  "version": "1.0.0",
+  "description": "Node application to watch videos with friends over the internet",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/descara/webparty.git"
+  },
+  "author": "descara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/descara/webparty/issues"
+  },
+  "homepage": "https://github.com/descara/webparty#readme"
+}
